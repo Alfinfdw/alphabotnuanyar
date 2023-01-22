@@ -18,8 +18,8 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read message
-global.antidelete = true // anti delete
-global.antiviewonce = true // anti view once
+global.antidelete = false // anti delete
+global.antiviewonce = false // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
